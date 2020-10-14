@@ -6,4 +6,4 @@ I'm a High School student who is partaking in some small projects with my friend
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IEatDeepFriedMemes)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IEatDeepFriedMemes)
